@@ -1,1 +1,1 @@
-Website about bass guitars made with Bootstrap. Live page:
+Website about bass guitars made with Bootstrap. Live page: https://masterzen7.github.io/bass-page/
