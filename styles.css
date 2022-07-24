@@ -1,0 +1,24 @@
+body {
+    font-family: 'Oi', cursive;
+    background-color: gold;
+}
+
+.nav-link {
+    margin-right: 9em;
+    margin-left: 9em;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+}
+
+.navbar.navbar {
+    background-color: burlywood;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

@@ -1,1 +1,1 @@
-# bass-page
+Website about bass guitars made with Bootstrap. Live page:
