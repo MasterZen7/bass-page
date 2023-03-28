@@ -1,1 +1,10 @@
-Website about bass guitars made with Bootstrap. Live page: https://masterzen7.github.io/bass-page/
+# Bass page
+
+## About
+Bass guitar page
+
+## Technologies used
+HTML5, CSS3, Bootstrap
+
+## Preview
+https://masterzen7.github.io/bass-page/
